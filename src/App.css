@@ -1,0 +1,191 @@
+@import "tailwindcss";
+
+/* World-Class Custom Styles */
+
+/* Premium scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1);
+  border-radius: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.1);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(45deg, #ff5252, #26a69a, #2196f3);
+}
+
+/* World-class animations */
+@keyframes float {
+  0%, 100% { 
+    transform: translateY(0px) rotate(0deg); 
+  }
+  33% { 
+    transform: translateY(-15px) rotate(1deg); 
+  }
+  66% { 
+    transform: translateY(-8px) rotate(-1deg); 
+  }
+}
+
+@keyframes glow {
+  0%, 100% { 
+    box-shadow: 0 0 30px rgba(168, 85, 247, 0.4),
+                0 0 60px rgba(168, 85, 247, 0.2);
+  }
+  50% { 
+    box-shadow: 0 0 50px rgba(168, 85, 247, 0.6),
+                0 0 100px rgba(168, 85, 247, 0.3);
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { 
+    opacity: 0.3;
+    transform: scale(1);
+  }
+  50% { 
+    opacity: 0.6;
+    transform: scale(1.1);
+  }
+}
+
+@keyframes gradient-shift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+/* Premium gradient text */
+.gradient-text {
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57, #ff6b6b);
+  background-size: 400% 400%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradient-shift 4s ease-in-out infinite;
+}
+
+/* Floating animation for cards */
+.float-animation {
+  animation: float 8s ease-in-out infinite;
+}
+
+/* Glow effect for interactive elements */
+.glow-effect {
+  animation: glow 3s ease-in-out infinite alternate;
+}
+
+/* Pulse glow for orbs */
+.pulse-glow {
+  animation: pulse-glow 4s ease-in-out infinite;
+}
+
+/* Enhanced focus styles */
+input:focus {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 20px 40px rgba(168, 85, 247, 0.4),
+              0 0 0 4px rgba(168, 85, 247, 0.1);
+}
+
+/* Premium transitions */
+* {
+  transition: all 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+/* World-class button effects */
+button:hover {
+  transform: translateY(-3px) scale(1.02);
+  box-shadow: 0 25px 50px rgba(168, 85, 247, 0.5);
+}
+
+button:active {
+  transform: translateY(-1px) scale(0.98);
+}
+
+/* Enhanced backdrop blur */
+.backdrop-blur-premium {
+  backdrop-filter: blur(30px) saturate(200%) brightness(110%);
+  -webkit-backdrop-filter: blur(30px) saturate(200%) brightness(110%);
+}
+
+/* Card hover effects */
+.card-hover {
+  transition: all 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.card-hover:hover {
+  transform: translateY(-10px) scale(1.03);
+  box-shadow: 0 30px 60px rgba(0, 0, 0, 0.3);
+}
+
+/* Text selection styling */
+::selection {
+  background: rgba(168, 85, 247, 0.3);
+  color: white;
+}
+
+::-moz-selection {
+  background: rgba(168, 85, 247, 0.3);
+  color: white;
+}
+
+/* Custom border radius for premium feel */
+.rounded-premium {
+  border-radius: 24px;
+}
+
+/* Gradient borders */
+.gradient-border {
+  position: relative;
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1);
+  padding: 2px;
+  border-radius: 24px;
+}
+
+.gradient-border::before {
+  content: '';
+  position: absolute;
+  inset: 2px;
+  background: rgba(0, 0, 0, 0.8);
+  border-radius: 22px;
+  z-index: -1;
+}
+
+/* Loading animation */
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.loading-spinner {
+  animation: spin 1s linear infinite;
+}
+
+/* Particle animation */
+@keyframes particle-float {
+  0%, 100% { 
+    transform: translateY(0px) translateX(0px);
+    opacity: 0.3;
+  }
+  50% { 
+    transform: translateY(-20px) translateX(10px);
+    opacity: 0.8;
+  }
+}
+
+.particle {
+  animation: particle-float 6s ease-in-out infinite;
+}
