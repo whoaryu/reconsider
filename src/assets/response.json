@@ -13,6 +13,37 @@
       "subtitle": "Dil Chahta Hai... another round of melodies!"
     },
     {
+  "title": "Nitin Patil Vada Pav",
+  "price": 20,
+  "emoji": "🔥",
+  "subtitle": "Do you need anything more?"
+},
+{
+    "title": "Sugarcane Juice",
+    "price": 20,
+    "emoji": "🍹",
+    "subtitle": "One sip and suddenly all your childhood memories are back."
+  },
+  {
+    "title": "Salman Khan Movie in Theatre",
+    "price": 200,
+    "emoji": "🎬💥",
+    "subtitle": "Explosions, drama, and a couple of dialogues you’ll repeat for a week."
+  },
+  {
+    "title": "Chocolate Cold Coffee at Chaoki",
+    "price": 160,
+    "emoji": "🥶☕",
+    "subtitle": "The caffeine hits just as hard as your Monday mood."
+  },
+  {
+    "title": "Schezwan Cheese Wada Pav at Anand Stall",
+    "price": 60,
+    "emoji": "🌶🧀",
+    "subtitle": "Spicy, cheesy, and a one-way ticket to street food heaven."
+  },
+
+    {
       "title": "Altaf Raja Concert",
       "price": 1000,
       "emoji": "🎵🕺",
@@ -44,7 +75,7 @@
     },
     {
       "title": "2-Day Trip to Vapi & Back at Dhairya’s Farmhouse (with travel and food)",
-      "price": 1000,
+      "price": 1500,
       "emoji": "🏡",
       "subtitle": "Sun, snacks, and chaos with the gang — all for the same price."
     },
@@ -56,7 +87,7 @@
     },
     {
       "title": "New Mobile Phone Cover",
-      "price": 50,
+      "price": 100,
       "emoji": "📱",
       "subtitle": "New outfit for your phone, 20 times over 💅."
     },
@@ -79,25 +110,13 @@
       "subtitle": "Flaky, creamy, and 100x better ROI."
     },
     {
-      "title": "Keste Pizzeria",
-      "price": 800,
-      "emoji": "🍕",
-      "subtitle": "The place that made you realize pizza can be ‘luxury dining’."
-    },
-    {
       "title": "Bhagwati Pav Bhaji",
       "price": 200,
       "emoji": "🥘",
       "subtitle": "Nothing beats pav bhaji happiness."
     },
     {
-      "title": "Squash at KVSC (Member)",
-      "price": 40,
-      "emoji": "🏸",
-      "subtitle": "Cardio + ego boost for the price of chai."
-    },
-    {
-      "title": "Squash at KVSC (Non-Member)",
+      "title": "Squash at KVSC",
       "price": 150,
       "emoji": "🏸",
       "subtitle": "Still cheaper than one impulse buy."
@@ -115,14 +134,14 @@
       "subtitle": "For the price of one regret, you could’ve smashed birdies."
     },
     {
-      "title": "Marine Drive Trips (Train)",
-      "price": 15,
+      "title": "Marine Drive Trips (to and fro)",
+      "price": 30,
       "emoji": "🌊",
-      "subtitle": "133 waves of peace, literally."
+      "subtitle": "Waves of peace, literally."
     },
     {
       "title": "Imagica + Novotel Stay (1 Night)",
-      "price": 1000,
+      "price": 2000,
       "emoji": "🎢",
       "subtitle": "Rollercoasters + buffet breakfast > overpriced dinners."
     },
