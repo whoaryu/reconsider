@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "title": "Sonu Nigam Concert",
+      "price": 750,
+      "emoji": "🎤",
+      "subtitle": "When nostalgia hits higher than his high notes!"
+    },
+    {
+      "title": "Shaan Concert",
+      "price": 750,
+      "emoji": "🎶",
+      "subtitle": "Dil Chahta Hai... another round of melodies!"
+    },
+    {
+      "title": "Altaf Raja Concert",
+      "price": 1000,
+      "emoji": "🎵🕺",
+      "subtitle": "Full mehfil mode — ‘Tum Toh Thehre Pardesi’ energy all night!"
+    },
+    {
+      "title": "Himesh Reshammiya Concert",
+      "price": 1000,
+      "emoji": "🎧🔥",
+      "subtitle": "Tandoori Nights & nasal delights — full volume only!"
+    },
+    {
+      "title": "Shreya Ghoshal Concert",
+      "price": 1200,
+      "emoji": "👑🎤",
+      "subtitle": "Queen Shreya’s voice can fix your breakup and your Wi-Fi!"
+    },
+    {
+      "title": "Standup Comedy Show",
+      "price": 700,
+      "emoji": "😂🎭",
+      "subtitle": "Cheaper than therapy, louder than your neighbour’s fights!"
+    },
+    {
+      "title": "Mouse from Zepto",
+      "price": 12,
+      "emoji": "🖱⚡",
+      "subtitle": "Clicks faster than your salary disappears on Swiggy!"
+    },
+    {
+      "title": "2-Day Trip to Vapi & Back at Dhairya’s Farmhouse (with travel and food)",
+      "price": 1000,
+      "emoji": "🏡",
+      "subtitle": "Sun, snacks, and chaos with the gang — all for the same price."
+    },
+    {
+      "title": "Pico Park Online Together",
+      "price": 200,
+      "emoji": "🎮",
+      "subtitle": "Yelling at friends online is cheaper therapy."
+    },
+    {
+      "title": "New Mobile Phone Cover",
+      "price": 50,
+      "emoji": "📱",
+      "subtitle": "New outfit for your phone, 20 times over 💅."
+    },
+    {
+      "title": "London Shakes Bowl Cake",
+      "price": 200,
+      "emoji": "🍰",
+      "subtitle": "Sweet choices > financial mistakes."
+    },
+    {
+      "title": "Domino’s Cheese Burst Pizza",
+      "price": 200,
+      "emoji": "🍕",
+      "subtitle": "That’s a lotta molten regret."
+    },
+    {
+      "title": "Merwans Pastry",
+      "price": 75,
+      "emoji": "🍮",
+      "subtitle": "Flaky, creamy, and 100x better ROI."
+    },
+    {
+      "title": "Keste Pizzeria",
+      "price": 800,
+      "emoji": "🍕",
+      "subtitle": "The place that made you realize pizza can be ‘luxury dining’."
+    },
+    {
+      "title": "Bhagwati Pav Bhaji",
+      "price": 200,
+      "emoji": "🥘",
+      "subtitle": "Nothing beats pav bhaji happiness."
+    },
+    {
+      "title": "Squash at KVSC (Member)",
+      "price": 40,
+      "emoji": "🏸",
+      "subtitle": "Cardio + ego boost for the price of chai."
+    },
+    {
+      "title": "Squash at KVSC (Non-Member)",
+      "price": 150,
+      "emoji": "🏸",
+      "subtitle": "Still cheaper than one impulse buy."
+    },
+    {
+      "title": "Turf Game",
+      "price": 150,
+      "emoji": "⚽",
+      "subtitle": "Score goals instead of overspending."
+    },
+    {
+      "title": "Badminton Session",
+      "price": 160,
+      "emoji": "🏸",
+      "subtitle": "For the price of one regret, you could’ve smashed birdies."
+    },
+    {
+      "title": "Marine Drive Trips (Train)",
+      "price": 15,
+      "emoji": "🌊",
+      "subtitle": "133 waves of peace, literally."
+    },
+    {
+      "title": "Imagica + Novotel Stay (1 Night)",
+      "price": 1000,
+      "emoji": "🎢",
+      "subtitle": "Rollercoasters + buffet breakfast > overpriced dinners."
+    },
+    {
+      "title": "1 Month of Zomato Gold",
+      "price": 1,
+      "emoji": "🥇",
+      "subtitle": "Free desserts for a month, not one night."
+    }
+  ]
+}
